@@ -73,11 +73,9 @@ python forloop_w_pybind.py
 <h3>C++ Loop</h3>
 <img src="images/cpp.png" alt="C++ Loop Result">
 
-<!-- Replace "python_image1.png", "python_image2.png", etc. with your actual image file names -->
 <h3>Python Loop</h3>
 <img src="images/python.png" alt="Python Loop Result">
 
-<!-- Replace "pybind_image1.png", "pybind_image2.png", etc. with your actual image file names -->
 <h3>Python with Pybind Loop</h3>
 <img src="images/w_pybind.png" alt="Pybind Loop Result">
 
@@ -86,7 +84,7 @@ python forloop_w_pybind.py
 <ul>
     <li>Ensure that you have the necessary dependencies installed.</li>
     <li>Feel free to modify the code for further experimentation.</li>
-    <li>Report any issues or improvements in the <a href="https://github.com/yourusername/yourproject/issues">Issues</a> section.</li>
+    <li>Report any issues or improvements in the <a href="https://github.com/bonj4/LoopPyBinder/issues">Issues</a> section.</li>
 </ul>
 
 </body>
